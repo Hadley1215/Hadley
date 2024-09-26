@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        background-color: lightblue;
+    }
+
+    h1 {
+        font-size: 36px;
+        margin-bottom: 20px;
+    }
+
+    p {
+        font-size: 18px;
+    }
+
+    ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    li {
+        margin-bottom: 10px;
+    }
+
+    img {
+        width: 300px;
+        height: auto;
+    }
+</style>
+<title>My First Website</title>
+</head>
+
+<body>
+    <h1>I have a deep passion for various activities, especially traveling, reading, and creative projects. Traveling allows me to experience different cultures and landscapes, broadening my perspective. Reading immerses me in a world of stories and knowledge, sparking my imagination. Additionally, I enjoy engaging in creative projects, whether it's writing or crafting, as they bring me joy and fulfillment. These hobbies enrich my life and contribute to my personal growth. </h1>
+</body>
+
+</html>
